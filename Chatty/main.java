@@ -1,11 +1,12 @@
 package Chatty;
 
 
+//driver java
 public class main{
     public static void main(String[] args){
         System.out.println("HELLOOO");
         Server server = new Server();
-        User user1 = new User("Luke the Molester");
+        User user1 = new User("Luke the Puke");
         server.AddUser(user1);
         User user2 = new User("Matt the Fucked");
         server.AddUser(user2);

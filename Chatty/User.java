@@ -1,7 +1,7 @@
 package Chatty;
 
 
-
+//User name
 
 import java.util.ArrayList;
 

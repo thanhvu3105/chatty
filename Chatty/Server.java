@@ -1,5 +1,6 @@
 package Chatty;
 
+// Handle server communications between users.
 
 import java.util.ArrayList;
 

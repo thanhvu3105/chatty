@@ -1,5 +1,6 @@
 package Chatty;
 
+// Forum use for creating GUI chat box
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
